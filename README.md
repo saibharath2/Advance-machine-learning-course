@@ -10,6 +10,12 @@
 
 ## fourth chapter - Practical Reinforcement Learning
 
-## fifth chapter - 
+## fifth chapter - Deep Learning in Computer Vision
 
-## sixth chapter - 
+## sixth chapter - Natural Language Processing
+
+## seventh chapter - Addressing Large Hadron Collider Challenges by Machine Learning
+
+These are the topics covered in this course and i will sharing all the assignments from this course.
+ 
+keep updated
